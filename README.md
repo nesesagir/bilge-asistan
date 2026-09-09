@@ -59,4 +59,4 @@ User → UI → PHP → MySQL (bilgi_bankasi) → Context → OpenAI API → Res
 
 ## License
 
-This project was built for educational purposes.
+This project is licensed under the [MIT License](LICENSE).
