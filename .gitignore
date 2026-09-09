@@ -1,0 +1,8 @@
+# Gizli bilgiler
+.env
+*.log
+
+# Sistem
+.DS_Store
+Thumbs.db
+desktop.ini
